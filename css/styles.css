@@ -1,6 +1,10 @@
 body{
-    font-family: 'Open';
+    font-family: 'Open Sans';
 }
 .list{
     list-style: none;
+}
+
+.header-nav-link{
+    text-decoration: none;
 }

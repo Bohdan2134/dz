@@ -24,50 +24,58 @@ top: 24px;
 }
 
 .linke{
+    position: absolute;
+    width: 45px;
+    height: 16px;
+    left: 453px;
+    top: 32px;
+
+    font-family: 'Roboto';
     font-style: normal;
-font-weight: 500;
-font-size: 14px;
-line-height: 16px;
-letter-spacing: 0.02em;
-color: #2196F3;
-
-position: absolute;
-width: 45px;
-height: 16px;
-left: 453px;
-top: 32px;
-
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    
+    color: #2196F3;
 
 }
 
 .links{
-    font-style: normal;
-font-weight: 500;
-font-size: 14px;
-line-height: 16px;
-letter-spacing: 0.02em;
-color: #212121;
-
-position: absolute;
-width: 72px;
+    position: absolute;
+    width: 72px;
 height: 16px;
 left: 548px;
 top: 32px;
+
+
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    
+    color: #212121;
+    
 }
 
 .linka{
-    font-style: normal;
-font-weight: 500;
-font-size: 14px;
-line-height: 16px;
-letter-spacing: 0.02em;
-color: #212121;
-
-position: absolute;
-width: 64px;
+    position: absolute;
+    width: 64px;
 height: 16px;
 left: 670px;
 top: 32px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    
+    color: #212121;
 }
 
 .num{
@@ -76,36 +84,36 @@ top: 32px;
 
 .number{
     position: absolute;
-width: 135px;
-height: 16px;
-left: 1078px;
-top: 32px;
+    width: 122px;
+    height: 16px;
+    left: 1263px;
+    top: 32px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 500;
-font-size: 14px;
-line-height: 16px;
-letter-spacing: 0.02em;
-
-color: #2196F3;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    
+    color: #757575;
+    
 }
 .mail{
     position: absolute;
-width: 122px;
-height: 16px;
-left: 1263px;
-top: 32px;
+    width: 135px;
+    height: 16px;
+    left: 1078px;
+    top: 32px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 500;
-font-size: 14px;
-line-height: 16px;
-letter-spacing: 0.02em;
-
-color: #757575;
-
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    
+    color: #2196F3;
 }
 
 .wis{
@@ -156,8 +164,7 @@ height: 26px;
 left: 615px;
 top: 180px;
 
-font-family: 'Roboto';
-font-style: normal;
+
 font-weight: 500;
 font-size: 14px;
 line-height: 26px;
@@ -384,11 +391,7 @@ line-height: 31px;
 letter-spacing: 0.03em;
 }
 .street {
-    position: absolute;
-width: 231px;
-height: 21px;
-left: 215px;
-top: 1739px;
+   
 
 font-family: 'Roboto';
 font-style: normal;
@@ -401,12 +404,8 @@ letter-spacing: 0.03em;
 
 color: #FFFFFF;
 }
-.mail {
-    position: absolute;
-width: 231px;
-height: 21px;
-left: 215px;
-top: 1769px;
+.mailt{
+   
 
 font-family: 'Roboto';
 font-style: normal;
@@ -420,11 +419,7 @@ letter-spacing: 0.03em;
 color: rgba(255, 255, 255, 0.6);
 }
 .numb {
-    position: absolute;
-width: 231px;
-height: 21px;
-left: 215px;
-top: 1799px;
+    
 
 font-family: 'Roboto';
 font-style: normal;

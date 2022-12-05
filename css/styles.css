@@ -1,5 +1,6 @@
 .link{
 list-style: none;
+direction: none;
 }
 
 .header{
@@ -24,18 +25,21 @@ top: 24px;
 }
 
 .linke{
+    position: absolute;
+    width: 45px;
+    height: 16px;
+    left: 453px;
+    top: 32px;
+    
+    font-family: 'Roboto';
     font-style: normal;
-font-weight: 500;
-font-size: 14px;
-line-height: 16px;
-letter-spacing: 0.02em;
-color: #2196F3;
-
-position: absolute;
-width: 45px;
-height: 16px;
-left: 453px;
-top: 32px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    
+    color: #2196F3;
+    
 
 
 }
@@ -402,24 +406,38 @@ color: #212121;
 }
 
 .Igor{
-    position: absolute;
+
+   
+    height: 260px;
     width: 270px;
-    height: 368px;
     left: 215px;
     top: 1632px;
-    
+    border-radius: 0px;
+
+    width: 270px;
+height: 368px;
+left: 215px;
+top: 1632px;
+      
     background: #FFFFFF;
-    /* material shadow v1 */
+    
     
     box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
     border-radius: 0px 0px 4px 4px;
+    
 }
 .Olga{
-    position: absolute;
-    width: 270px;
-    height: 368px;
-    left: 515px;
-    top: 1632px;
+    height: 260px;
+width: 270px;
+left: 515px;
+top: 1632px;
+border-radius: 0px;
+
+width: 270px;
+height: 368px;
+left: 515px;
+top: 1632px;
+
     
     background: #FFFFFF;
     /* material shadow v1 */
@@ -429,11 +447,18 @@ color: #212121;
 }
 
 .Mikola{
-    position: absolute;
-width: 270px;
+    height: 260px;
+    width: 270px;
+    left: 815px;
+    top: 1632px;
+    border-radius: 0px;
+
+    width: 270px;
 height: 368px;
-left: 815px;
+left: 515px;
 top: 1632px;
+
+    
 
 background: #FFFFFF;
 /* material shadow v1 */
@@ -443,11 +468,21 @@ border-radius: 0px 0px 4px 4px;
 }
 
 .Mihaulo{
-    position: absolute;
+    height: 260px;
     width: 270px;
-    height: 368px;
     left: 1115px;
     top: 1632px;
+    border-radius: 0px;
+
+    width: 270px;
+height: 368px;
+left: 815px;
+top: 1632px;
+    
+    width: 270px;
+height: 368px;
+left: 1115px;
+top: 1632px;
     
     background: #FFFFFF;
     /* material shadow v1 */
@@ -458,6 +493,8 @@ border-radius: 0px 0px 4px 4px;
 
 .team{
     list-style: none;
+    
+
  
 }
 
@@ -491,11 +528,11 @@ background: #2F303A;
 }
 
 .street{
-    position: absolute;
-width: 231px;
-height: 21px;
-left: 215px;
-top: 2205px;
+   
+    width: 231px;
+    height: 21px;
+    left: 215px;
+    top: 1739px;
 
 font-family: 'Roboto';
 font-style: normal;
@@ -510,11 +547,7 @@ color: #FFFFFF;
 }
 
 .tel{
-    position: absolute;
-width: 231px;
-height: 21px;
-left: 215px;
-top: 2265px;
+    
 
 font-family: 'Roboto';
 font-style: normal;
@@ -530,11 +563,7 @@ color: rgba(255, 255, 255, 0.6);
 }
 
 .gmail{
-    position: absolute;
-width: 231px;
-height: 21px;
-left: 215px;
-top: 2235px;
+  
 
 font-family: 'Roboto';
 font-style: normal;

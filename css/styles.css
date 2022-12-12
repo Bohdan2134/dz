@@ -4,32 +4,31 @@ direction: none;
 }
 
 .header{
-    position: absolute;
-width: 1600px;
-height: 80px;
-left: 0px;
-top: 0px;
+    
 
 background: #FFFFFF;
 }
 
 .logo{
-    position: absolute;
-width: 145px;
-height: 31px;
-left: 215px;
-top: 24px;
+    
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+
+color: #2196F3;
 
 
 
 }
 
 .linke{
-    position: absolute;
-    width: 45px;
-    height: 16px;
-    left: 453px;
-    top: 32px;
+    
     
     font-family: 'Roboto';
     font-style: normal;
@@ -52,11 +51,7 @@ line-height: 16px;
 letter-spacing: 0.02em;
 color: #212121;
 
-position: absolute;
-width: 72px;
-height: 16px;
-left: 548px;
-top: 32px;
+
 }
 
 .linka{
@@ -67,11 +62,7 @@ line-height: 16px;
 letter-spacing: 0.02em;
 color: #212121;
 
-position: absolute;
-width: 64px;
-height: 16px;
-left: 670px;
-top: 32px;
+
 }
 
 .lin{
@@ -80,12 +71,7 @@ top: 32px;
 }
 
 .number{
-    position: absolute;
-width: 135px;
-height: 16px;
-left: 1078px;
-top: 32px;
-
+  
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
@@ -96,11 +82,7 @@ letter-spacing: 0.02em;
 color: #2196F3;
 }
 .mail{
-    position: absolute;
-width: 122px;
-height: 16px;
-left: 1263px;
-top: 32px;
+   
 
 font-family: 'Roboto';
 font-style: normal;
@@ -114,21 +96,13 @@ color: #757575;
 }
 
 .main{
-    position: absolute;
-width: 1600px;
-height: 600px;
-left: 0px;
-top: 80px;
+ 
 
 background: #2F303A;
 }
 
 h1{
-    position: absolute;
-width: 696px;
-height: 120px;
-left: 452px;
-top: 280px;
+
 
 font-family: 'Roboto';
 font-style: normal;
@@ -145,21 +119,13 @@ color: #FFFFFF;
 }
 
 .button{
-    position: absolute;
-    width: 216px;
-    height: 50px;
-    left: 692px;
-    top: 430px;
+   
     
     background: #2196F3;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
 
-    position: absolute;
-width: 152px;
-height: 30px;
-left: 724px;
-top: 440px;
+  
 
 font-family: 'Roboto';
 font-style: normal;
@@ -177,12 +143,7 @@ color: #FFFFFF;
 }
 
 .war{
-    position: absolute;
-width: 270px;
-height: 16px;
-left: 215px;
-top: 774px;
-
+  
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 700;
@@ -195,11 +156,7 @@ color: #212121;
 }
 
 .idie{
-    position: absolute;
-width: 270px;
-height: 72px;
-left: 215px;
-top: 800px;
+   
 
 font-family: 'Roboto';
 font-style: normal;
@@ -215,11 +172,6 @@ color: #757575;
 }
 
 .pin{
-    position: absolute;
-    width: 270px;
-    height: 16px;
-    left: 515px;
-    top: 774px;
     
     font-family: 'Roboto';
     font-style: normal;
@@ -234,11 +186,7 @@ color: #757575;
 }
 
 .organi{
-    position: absolute;
-width: 270px;
-height: 48px;
-left: 515px;
-top: 800px;
+  
 
 font-family: 'Roboto';
 font-style: normal;
@@ -253,12 +201,7 @@ color: #757575;
 }
 
 .plan{
-position: absolute;
-width: 270px;
-height: 16px;
-left: 815px;
-top: 774px;
-    
+
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 700;
@@ -272,11 +215,7 @@ color: #212121;
 }
 
 .consul{
-    position: absolute;
-width: 270px;
-height: 48px;
-left: 815px;
-top: 800px;
+ 
 
 font-family: 'Roboto';
 font-style: normal;
@@ -291,11 +230,7 @@ color: #757575;
 }
 
 .tehnol{
-position: absolute;
-width: 270px;
-height: 16px;
-left: 1115px;
-top: 774px;
+
     
 font-family: 'Roboto';
 font-style: normal;
@@ -309,12 +244,7 @@ color: #212121;
 }
 
 .problem{
-    position: absolute;
-    width: 270px;
-    height: 72px;
-    left: 1115px;
-    top: 800px;
-    
+   
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
@@ -328,12 +258,7 @@ color: #212121;
 }
 
 .win{
-    position: absolute;
-    width: 366px;
-    height: 42px;
-    left: 617px;
-    top: 966px;
-    
+
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
@@ -350,32 +275,14 @@ color: #212121;
 }
 
 .program{
-    position: absolute;
-width: 370px;
-height: 294px;
-left: 215px;
-top: 1058px;
-
+ 
 background: url(close-up-image-programer-working-his-desk-office_1098-18707.jpg);
 mix-blend-mode: normal;
 }
 
-.programa{
-    position: absolute;
-    width: 370px;
-    height: 294px;
-    left: 615px;
-    top: 1058px  
-    
-}
+.programa 
 
-.ipad{
-    position: absolute;
-width: 370px;
-height: 294px;
-left: 1015px;
-top: 1058px; 
-}
+.ipad
 
 .section{
     position: absolute;
@@ -388,11 +295,7 @@ top: 1058px;
 }
 
 .comand{
-    position: absolute;
-width: 264px;
-height: 42px;
-left: 668px;
-top: 1540px;
+   
 
 font-family: 'Roboto';
 font-style: normal;
@@ -408,16 +311,7 @@ color: #212121;
 .Igor{
 
    
-    height: 260px;
-    width: 270px;
-    left: 215px;
-    top: 1632px;
-    border-radius: 0px;
-
-    width: 270px;
-height: 368px;
-left: 215px;
-top: 1632px;
+   
       
     background: #FFFFFF;
     
@@ -427,17 +321,7 @@ top: 1632px;
     
 }
 .Olga{
-    height: 260px;
-width: 270px;
-left: 515px;
-top: 1632px;
-border-radius: 0px;
-
-width: 270px;
-height: 368px;
-left: 515px;
-top: 1632px;
-
+    
     
     background: #FFFFFF;
     /* material shadow v1 */
@@ -447,16 +331,7 @@ top: 1632px;
 }
 
 .Mikola{
-    height: 260px;
-    width: 270px;
-    left: 815px;
-    top: 1632px;
-    border-radius: 0px;
-
-    width: 270px;
-height: 368px;
-left: 515px;
-top: 1632px;
+   
 
     
 
@@ -468,22 +343,7 @@ border-radius: 0px 0px 4px 4px;
 }
 
 .Mihaulo{
-    height: 260px;
-    width: 270px;
-    left: 1115px;
-    top: 1632px;
-    border-radius: 0px;
-
-    width: 270px;
-height: 368px;
-left: 815px;
-top: 1632px;
-    
-    width: 270px;
-height: 368px;
-left: 1115px;
-top: 1632px;
-    
+   
     background: #FFFFFF;
     /* material shadow v1 */
     
@@ -499,12 +359,7 @@ top: 1632px;
 }
 
 .logo-main{
-    position: absolute;
-width: 145px;
-height: 31px;
-left: 215px;
-top: 2154px;
-
+   
 font-family: 'Raleway';
 font-style: normal;
 font-weight: 700;
@@ -518,21 +373,14 @@ color: #2196F3;
 }
 
 .maine{
-    position: absolute;
-width: 1600px;
-height: 252px;
-left: 0px;
-top: 2094px;
+  
 
 background: #2F303A;
 }
 
 .street{
    
-    width: 231px;
-    height: 21px;
-    left: 215px;
-    top: 1739px;
+  
 
 font-family: 'Roboto';
 font-style: normal;

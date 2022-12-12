@@ -115,6 +115,9 @@ top: 32px;
     
     color: #2196F3;
 }
+.buton{
+    list-style: none;
+}
 
 .wis{
     position: absolute;
@@ -164,7 +167,8 @@ height: 26px;
 left: 615px;
 top: 180px;
 
-
+font-family: 'Roboto';
+font-style: normal;
 font-weight: 500;
 font-size: 14px;
 line-height: 26px;

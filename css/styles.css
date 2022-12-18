@@ -1,6 +1,6 @@
 .link{
 list-style: none;
-direction: none;
+
 }
 
 .header{
@@ -13,7 +13,7 @@ background: #FFFFFF;
     
 
 font-family: 'Raleway';
-font-style: normal;
+
 font-weight: 700;
 font-size: 26px;
 line-height: 31px;
@@ -23,6 +23,21 @@ letter-spacing: 0.03em;
 
 color: #2196F3;
 
+font-family: Raleway;
+font-size: 26px;
+font-weight: 700;
+line-height: 31px;
+letter-spacing: 0.03em;
+text-align: left;
+
+font-family: Oleo Script;
+font-size: 26px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0.03em;
+text-align: left;
+
+
 
 
 }
@@ -31,7 +46,7 @@ color: #2196F3;
     
     
     font-family: 'Roboto';
-    font-style: normal;
+    
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
@@ -44,7 +59,7 @@ color: #2196F3;
 }
 
 .links{
-    font-style: normal;
+    
 font-weight: 500;
 font-size: 14px;
 line-height: 16px;
@@ -55,7 +70,7 @@ color: #212121;
 }
 
 .linka{
-    font-style: normal;
+    
 font-weight: 500;
 font-size: 14px;
 line-height: 16px;
@@ -73,7 +88,7 @@ color: #212121;
 .number{
   
 font-family: 'Roboto';
-font-style: normal;
+
 font-weight: 500;
 font-size: 14px;
 line-height: 16px;
@@ -85,7 +100,7 @@ color: #2196F3;
    
 
 font-family: 'Roboto';
-font-style: normal;
+
 font-weight: 500;
 font-size: 14px;
 line-height: 16px;
@@ -105,7 +120,7 @@ h1{
 
 
 font-family: 'Roboto';
-font-style: normal;
+
 font-weight: 900;
 font-size: 44px;
 line-height: 60px;
@@ -128,7 +143,7 @@ color: #FFFFFF;
   
 
 font-family: 'Roboto';
-font-style: normal;
+
 font-weight: 700;
 font-size: 14px;
 line-height: 30px;
@@ -145,7 +160,7 @@ color: #FFFFFF;
 .war{
   
 font-family: 'Roboto';
-font-style: normal;
+
 font-weight: 700;
 font-size: 14px;
 line-height: 16px;
@@ -159,7 +174,7 @@ color: #212121;
    
 
 font-family: 'Roboto';
-font-style: normal;
+
 font-weight: 400;
 font-size: 14px;
 line-height: 24px;
@@ -174,7 +189,7 @@ color: #757575;
 .pin{
     
     font-family: 'Roboto';
-    font-style: normal;
+   
     font-weight: 700;
     font-size: 14px;
     line-height: 16px;
@@ -189,7 +204,7 @@ color: #757575;
   
 
 font-family: 'Roboto';
-font-style: normal;
+
 font-weight: 400;
 font-size: 14px;
 line-height: 24px;
@@ -203,7 +218,7 @@ color: #757575;
 .plan{
 
 font-family: 'Roboto';
-font-style: normal;
+
 font-weight: 700;
 font-size: 14px;
 line-height: 16px;
@@ -218,7 +233,7 @@ color: #212121;
  
 
 font-family: 'Roboto';
-font-style: normal;
+
 font-weight: 400;
 font-size: 14px;
 line-height: 24px;
@@ -233,7 +248,7 @@ color: #757575;
 
     
 font-family: 'Roboto';
-font-style: normal;
+
 font-weight: 700;
 font-size: 14px;
  line-height: 16px;
@@ -246,7 +261,7 @@ color: #212121;
 .problem{
    
     font-family: 'Roboto';
-    font-style: normal;
+    
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
@@ -260,7 +275,7 @@ color: #212121;
 .win{
 
     font-family: 'Roboto';
-    font-style: normal;
+    
     font-weight: 700;
     font-size: 36px;
     line-height: 42px;
@@ -298,7 +313,7 @@ mix-blend-mode: normal;
    
 
 font-family: 'Roboto';
-font-style: normal;
+
 font-weight: 700;
 font-size: 36px;
 line-height: 42px;
@@ -361,7 +376,7 @@ border-radius: 0px 0px 4px 4px;
 .logo-main{
    
 font-family: 'Raleway';
-font-style: normal;
+
 font-weight: 700;
 font-size: 26px;
 line-height: 31px;
@@ -383,7 +398,7 @@ background: #2F303A;
   
 
 font-family: 'Roboto';
-font-style: normal;
+
 font-weight: 400;
 font-size: 14px;
 line-height: 24px;
@@ -398,7 +413,7 @@ color: #FFFFFF;
     
 
 font-family: 'Roboto';
-font-style: normal;
+
 font-weight: 400;
 font-size: 14px;
 line-height: 24px;
@@ -414,7 +429,7 @@ color: rgba(255, 255, 255, 0.6);
   
 
 font-family: 'Roboto';
-font-style: normal;
+
 font-weight: 400;
 font-size: 14px;
 line-height: 24px;
@@ -425,3 +440,447 @@ letter-spacing: 0.03em;
 color: rgba(255, 255, 255, 0.6);
 
 }
+
+
+
+
+
+
+
+
+
+.link{
+    list-style: none;  
+  }
+  
+  .header{
+      position: absolute;
+  width: 1600px;
+  height: 80px;
+  left: 0px;
+  top: 0px;
+  
+  background: #FFFFFF;
+  }
+  
+  .logo{
+      position: absolute;
+  width: 145px;
+  height: 31px;
+  left: 215px;
+  top: 24px;
+  
+  
+  
+  }
+  
+  .linke{
+      position: absolute;
+      width: 45px;
+      height: 16px;
+      left: 453px;
+      top: 32px;
+  
+      font-family: Roboto;
+font-size: 14px;
+font-weight: 500;
+line-height: 16.41px;
+letter-spacing: 0.02em;
+text-align: left;
+
+      
+      color: #2196F3;
+
+      
+  
+  }
+  
+  .links{
+      position: absolute;
+      width: 72px;
+  height: 16px;
+  left: 548px;
+  top: 32px;
+  
+  
+  
+      font-family: 'Roboto';
+     
+      font-weight: 500;
+      font-size: 14px;
+      line-height: 16.41px;
+      letter-spacing: 0.02em;
+      
+      color: #212121;
+      
+  }
+  
+  .linka{
+      position: absolute;
+      width: 64px;
+  height: 16px;
+  left: 670px;
+  top: 32px;
+  
+      font-family: 'Roboto';
+      
+      font-weight: 500;
+      font-size: 14px;
+      line-height: 16.41px;
+      letter-spacing: 0.02em;
+      
+      color: #212121;
+  }
+  
+  .num{
+      list-style: none;
+  }
+  
+  .number{
+      position: absolute;
+      width: 122px;
+      height: 16px;
+      left: 1263px;
+      top: 32px;
+  
+      font-family: 'Roboto';
+      
+      font-weight: 500;
+      font-size: 14px;
+      line-height: 16px;
+      letter-spacing: 0.02em;
+      
+      color: #757575;
+      
+  }
+  .mail{
+      position: absolute;
+      width: 135px;
+      height: 16px;
+      left: 1078px;
+      top: 32px;
+  
+      font-family: 'Roboto';
+  
+      font-weight: 500;
+      font-size: 14px;
+      line-height: 16px;
+      letter-spacing: 0.02em;
+      
+      color: #757575;
+  }
+  .buton{
+      list-style: none;
+  }
+  
+  .wis{
+      position: absolute;
+  width: 73px;
+  height: 38px;
+  left: 512px;
+  top: 174px;
+  
+  background: #2196F3;
+  /* shadow-middle */
+  
+  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+  border-radius: 4px;
+  
+  position: absolute;
+  width: 23px;
+  height: 26px;
+  left: 537px;
+  top: 180px;
+  
+  font-family: 'Roboto';
+  
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  /* identical to box height, or 162% */
+  
+  text-align: center;
+  letter-spacing: 0.03em;
+  
+  color: #FFFFFF;
+  }
+  
+  
+  .web{
+      position: absolute;
+  width: 125px;
+  height: 38px;
+  left: 593px;
+  top: 174px;
+  
+  background: #F5F4FA;
+  border-radius: 4px;
+  
+  position: absolute;
+  width: 81px;
+  height: 26px;
+  left: 615px;
+  top: 180px;
+  
+  font-family: 'Roboto';
+  
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 26px;
+  /* identical to box height, or 162% */
+  
+  text-align: center;
+  letter-spacing: 0.03em;
+  
+  color: #212121;
+  
+  }
+  
+  .wet{
+      position: absolute;
+      width: 112px;
+      height: 38px;
+      left: 726px;
+      top: 174px;
+      
+      background: #F5F4FA;
+      border-radius: 4px; 
+  
+      position: absolute;
+  width: 68px;
+  height: 26px;
+  left: 748px;
+  top: 180px;
+  
+  font-family: 'Roboto';
+  
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  /* identical to box height, or 162% */
+  
+  text-align: center;
+  letter-spacing: 0.03em;
+  
+  color: #212121;
+  
+  }
+  
+  .diz{
+      position: absolute;
+  width: 103px;
+  height: 38px;
+  left: 846px;
+  top: 174px;
+  
+  background: #F5F4FA;
+  border-radius: 4px;
+  
+  position: absolute;
+  width: 59px;
+  height: 26px;
+  left: 868px;
+  top: 180px;
+  
+  font-family: 'Roboto';
+  
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  /* identical to box height, or 162% */
+  
+  text-align: center;
+  letter-spacing: 0.03em;
+  
+  color: #212121;
+  
+  }
+  
+  .market{
+      position: absolute;
+  width: 130px;
+  height: 38px;
+  left: 957px;
+  top: 174px;
+  
+  background: #F5F4FA;
+  border-radius: 4px;
+  
+  position: absolute;
+  width: 86px;
+  height: 26px;
+  left: 979px;
+  top: 180px;
+  
+  font-family: 'Roboto';
+  
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  /* identical to box height, or 162% */
+  
+  text-align: center;
+  letter-spacing: 0.03em;
+  
+  color: #212121;
+  
+  }
+  
+  .img{
+      list-style: none;
+  }
+  
+  .teh {
+      position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 215px;
+  top: 262px;
+  
+  background: #FFFFFF;
+  border: 1px solid #EEEEEE;
+  }
+  .poster {
+      position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 615px;
+  top: 262px;
+  
+  background: #FFFFFF;
+  border: 1px solid #EEEEEE;
+  }
+  .rest {
+      position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 1015px;
+  top: 262px;
+  
+  background: #FFFFFF;
+  border: 1px solid #EEEEEE;
+  }
+  .project {
+      position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 215px;
+  top: 696px;
+  
+  background: #FFFFFF;
+  border: 1px solid #EEEEEE;
+  }
+  .box {
+      position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 615px;
+  top: 696px;
+  
+  background: #FFFFFF;
+  border: 1px solid #EEEEEE;
+  }
+  .insp {
+      position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 1015px;
+  top: 696px;
+  
+  background: #FFFFFF;
+  border: 1px solid #EEEEEE;
+  }
+  .limit {
+      position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 215px;
+  top: 1130px;
+  
+  background: #FFFFFF;
+  border: 1px solid #EEEEEE;
+  }
+  .lab {
+      position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 615px;
+  top: 1130px;
+  
+  background: #FFFFFF;
+  border: 1px solid #EEEEEE;
+  }
+  
+  .busin{
+      position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 1015px;
+  top: 1130px;
+  
+  background: #FFFFFF;
+  border: 1px solid #EEEEEE;
+  }
+  
+  
+  
+  .secti {
+      position: absolute;
+  width: 1600px;
+  height: 252px;
+  left: 0px;
+  top: 1628px;
+  
+  background: #2F303A;
+  }
+  .logo-main {
+    
+    
+    position: absolute;
+    width: 145px;
+    height: 31px;
+    left: 215px;
+    top: 1688px;
+  }
+  .street {
+     
+  
+  font-family: 'Roboto';
+  
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  /* or 171% */
+  
+  letter-spacing: 0.03em;
+  
+  color: #FFFFFF;
+  }
+  .mailt{
+     
+  
+  font-family: 'Roboto';
+  
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  /* or 171% */
+  
+  letter-spacing: 0.03em;
+  
+  color: rgba(255, 255, 255, 0.6);
+  }
+  .numb {
+      
+  
+  font-family: 'Roboto';
+  
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  /* or 171% */
+  
+  letter-spacing: 0.03em;
+  
+  color: rgba(255, 255, 255, 0.6);
+  }

@@ -2,6 +2,15 @@
     font-family: 'Roboto', sans-serif;
     src: url(/fonts/Roboto-Regular.ttf) format('truetype');
 }
+@font-face {
+    font-family: 'Raleway' , sans-serif;
+    src: url(/fonts/Raleway-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Oleo Script' , sans-serif;
+    src: url(/fonts/OleoScript-Regular.ttf) format('treutype');
+}
 .link{
 list-style: none;
 
@@ -13,37 +22,36 @@ list-style: none;
 background: #FFFFFF;
 }
 
-.logo{
+.logo-link{
     
 
-font-family: 'Raleway';
+    
 
-font-weight: 700;
-font-size: 26px;
-line-height: 31px;
-/* identical to box height */
 
-letter-spacing: 0.03em;
 
-color: #2196F3;
-
-font-family: Raleway;
+font-family: 'Raleway' , sans-serif;
 font-size: 26px;
 font-weight: 700;
 line-height: 31px;
 letter-spacing: 0.03em;
 text-align: left;
 
-font-family: Oleo Script;
+color: #2196F3
+
+
+
+
+}
+
+.logo-header{
+   
+    font-family: 'Oleo Script' , sans-serif;
 font-size: 26px;
 font-weight: 400;
 line-height: 36px;
 letter-spacing: 0.03em;
 text-align: left;
-
-
-
-
+color: #000000;
 }
 
 .linke{
@@ -58,7 +66,7 @@ text-align: left;
     
     color: #2196F3;
     
-
+direction: none;
 
 }
 
@@ -115,7 +123,7 @@ color: #757575;
 }
 
 .main{
- 
+    
 
 background: #2F303A;
 }
@@ -124,10 +132,19 @@ h1{
 
     font-family: 'Roboto', sans-serif;
 
-
-font-weight: 900;
-font-size: 44px;
-line-height: 60px;
+   
+    width: 696px;
+    height: 120px;
+    left: 452px;
+    top: 280px;
+    
+    
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+   
+    
+   
 
 
 text-align: center;
@@ -336,20 +353,29 @@ letter-spacing: 0.03em;
 text-align: center;
 
 }
-.p{
+
+.igo{
+    font-family: 'Roboto', sans-serif;
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0.03em;
+text-align: center;
+      
+}
+
+.prodec {
     font-family: 'Roboto', sans-serif;
 font-size: 16px;
 font-weight: 400;
 line-height: 19px;
 letter-spacing: 0.03em;
 text-align: center;
-
 }
 .Igor{
 
    
-   
-      
+    
     background: #FFFFFF;
     
     
@@ -367,6 +393,23 @@ text-align: center;
     border-radius: 0px 0px 4px 4px; 
 }
 
+.olg {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    text-align: center;
+}
+.front {
+    font-family: 'Roboto', sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0.03em;
+text-align: center;
+}
+
 .Mikola{
    
 
@@ -379,6 +422,23 @@ box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0p
 border-radius: 0px 0px 4px 4px;
 }
 
+.mikol {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    text-align: center;
+}
+.mark {
+    font-family: 'Roboto', sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0.03em;
+text-align: center;
+}
+
 .Mihaulo{
    
     background: #FFFFFF;
@@ -388,6 +448,24 @@ border-radius: 0px 0px 4px 4px;
     border-radius: 0px 0px 4px 4px; 
 }
 
+.mihaul {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    text-align: center;
+}
+.ui {
+    font-family: 'Roboto', sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0.03em;
+text-align: center;
+
+}
+
 .team{
     list-style: none;
     
@@ -395,19 +473,37 @@ border-radius: 0px 0px 4px 4px;
  
 }
 
-.logo-main{
-   
-font-family: 'Raleway';
+.logo-link{
+    
 
-font-weight: 700;
-font-size: 26px;
-line-height: 31px;
-/* identical to box height */
+    
 
-letter-spacing: 0.03em;
 
-color: #2196F3;
-}
+
+    font-family: 'Raleway' , sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    
+    color: #2196F3
+    
+    
+    
+    
+    }
+    
+    .logo-header{
+       
+        font-family: 'Oleo Script' , sans-serif;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #000000;
+    }
 
 .maine{
   
@@ -470,7 +566,6 @@ color: rgba(255, 255, 255, 0.6);
 
 
 
-
 .link{
     list-style: none;  
   }
@@ -484,17 +579,40 @@ color: rgba(255, 255, 255, 0.6);
   
   background: #FFFFFF;
   }
+
+
   
-  .logo{
-      position: absolute;
-  width: 145px;
-  height: 31px;
-  left: 215px;
-  top: 24px;
-  
-  
-  
-  }
+  .logo-link{
+    
+
+    
+
+
+
+    font-family: 'Raleway' , sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    
+    color: #2196F3
+    
+    
+    
+    
+    }
+    
+    .logo-header{
+       
+        font-family: 'Oleo Script' , sans-serif;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #000000;
+    }
   
   .linke{
     font-family: 'Roboto', sans-serif;
@@ -598,36 +716,17 @@ text-align: left;
   }
   
   .wis{
-      position: absolute;
-  width: 73px;
-  height: 38px;
-  left: 512px;
-  top: 174px;
+     
   
-  background: #2196F3;
-  /* shadow-middle */
+ 
   
-  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
-  border-radius: 4px;
   
-  position: absolute;
-  width: 23px;
-  height: 26px;
-  left: 537px;
-  top: 180px;
-  
-  font-family: 'Roboto', sans-serif;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 26px;
-  /* identical to box height, or 162% */
-  
-  text-align: center;
-  letter-spacing: 0.03em;
-  
-  color: #FFFFFF;
-
-  cursor: pointer;
+   
+    font-family: 'Roboto', sans-serif;
+    
+    
+    cursor: pointer;
+    
   }
   
   
@@ -766,13 +865,18 @@ text-align: left;
   border: 1px solid #EEEEEE;
   }
   .tehno {
-    font-family: 'Roboto', sans-serif;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 36px;
-    letter-spacing: 0.06em;
-    text-align: left;
-    
+    font-family: 'Roboto';
+
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+
+
+letter-spacing: 0.06em;
+
+color: #212121;
+
+
 }
 .webs {
     font-family: 'Roboto', sans-serif;
@@ -1024,15 +1128,37 @@ text-align: left;
   
   background: #2F303A;
   }
-  .logo-main {
+  .logo-link{
+    
+
+    
+
+
+
+    font-family: 'Raleway' , sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    
+    color: #2196F3
     
     
-    position: absolute;
-    width: 145px;
-    height: 31px;
-    left: 215px;
-    top: 1688px;
-  }
+    
+    
+    }
+    
+    .logo-header{
+       
+        font-family: 'Oleo Script' , sans-serif;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #000000;
+    }
   .street {
      
   
@@ -1049,6 +1175,7 @@ text-align: left;
   }
   .mailt{
      
+    font-style: normal;
   
     font-family: 'Roboto', sans-serif;
   

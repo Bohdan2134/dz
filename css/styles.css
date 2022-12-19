@@ -1,3 +1,7 @@
+@font-face {
+    font-family: 'Roboto', sans-serif;
+    src: url(/fonts/Roboto-Regular.ttf) format('truetype');
+}
 .link{
 list-style: none;
 
@@ -45,7 +49,7 @@ text-align: left;
 .linke{
     
     
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     
     font-weight: 500;
     font-size: 14px;
@@ -59,7 +63,7 @@ text-align: left;
 }
 
 .links{
-    
+    font-family: 'Roboto', sans-serif;
 font-weight: 500;
 font-size: 14px;
 line-height: 16px;
@@ -70,7 +74,7 @@ color: #212121;
 }
 
 .linka{
-    
+    font-family: 'Roboto', sans-serif;
 font-weight: 500;
 font-size: 14px;
 line-height: 16px;
@@ -87,7 +91,7 @@ color: #212121;
 
 .number{
   
-font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
 
 font-weight: 500;
 font-size: 14px;
@@ -99,7 +103,7 @@ color: #2196F3;
 .mail{
    
 
-font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
 
 font-weight: 500;
 font-size: 14px;
@@ -118,8 +122,8 @@ background: #2F303A;
 
 h1{
 
+    font-family: 'Roboto', sans-serif;
 
-font-family: 'Roboto';
 
 font-weight: 900;
 font-size: 44px;
@@ -134,7 +138,7 @@ color: #FFFFFF;
 }
 
 .button{
-   
+   cursor: pointer;
     
     background: #2196F3;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
@@ -142,7 +146,7 @@ color: #FFFFFF;
 
   
 
-font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
 
 font-weight: 700;
 font-size: 14px;
@@ -157,9 +161,10 @@ letter-spacing: 0.06em;
 color: #FFFFFF;
 }
 
+
 .war{
   
-font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
 
 font-weight: 700;
 font-size: 14px;
@@ -173,7 +178,7 @@ color: #212121;
 .idie{
    
 
-font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
 
 font-weight: 400;
 font-size: 14px;
@@ -188,7 +193,7 @@ color: #757575;
 
 .pin{
     
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
    
     font-weight: 700;
     font-size: 14px;
@@ -203,7 +208,7 @@ color: #757575;
 .organi{
   
 
-font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
 
 font-weight: 400;
 font-size: 14px;
@@ -217,7 +222,7 @@ color: #757575;
 
 .plan{
 
-font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
 
 font-weight: 700;
 font-size: 14px;
@@ -232,7 +237,7 @@ color: #212121;
 .consul{
  
 
-font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
 
 font-weight: 400;
 font-size: 14px;
@@ -247,7 +252,7 @@ color: #757575;
 .tehnol{
 
     
-font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
 
 font-weight: 700;
 font-size: 14px;
@@ -260,7 +265,7 @@ color: #212121;
 
 .problem{
    
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     
     font-weight: 400;
     font-size: 14px;
@@ -274,7 +279,7 @@ color: #212121;
 
 .win{
 
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     
     font-weight: 700;
     font-size: 36px;
@@ -312,7 +317,7 @@ mix-blend-mode: normal;
 .comand{
    
 
-font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
 
 font-weight: 700;
 font-size: 36px;
@@ -322,7 +327,24 @@ letter-spacing: 0.03em;
 
 color: #212121;
 }
+.h3{
+    font-family: 'Roboto', sans-serif;
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0.03em;
+text-align: center;
 
+}
+.p{
+    font-family: 'Roboto', sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0.03em;
+text-align: center;
+
+}
 .Igor{
 
    
@@ -397,7 +419,7 @@ background: #2F303A;
    
   
 
-font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
 
 font-weight: 400;
 font-size: 14px;
@@ -428,7 +450,7 @@ color: rgba(255, 255, 255, 0.6);
 .gmail{
   
 
-font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
 
 font-weight: 400;
 font-size: 14px;
@@ -475,6 +497,7 @@ color: rgba(255, 255, 255, 0.6);
   }
   
   .linke{
+    font-family: 'Roboto', sans-serif;
       position: absolute;
       width: 45px;
       height: 16px;
@@ -504,7 +527,7 @@ text-align: left;
   
   
   
-      font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif;
      
       font-weight: 500;
       font-size: 14px;
@@ -522,7 +545,7 @@ text-align: left;
   left: 670px;
   top: 32px;
   
-      font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif;
       
       font-weight: 500;
       font-size: 14px;
@@ -543,7 +566,7 @@ text-align: left;
       left: 1263px;
       top: 32px;
   
-      font-family: 'Roboto';
+      font-family: 'Roboto', sans-serif;
       
       font-weight: 500;
       font-size: 14px;
@@ -560,7 +583,7 @@ text-align: left;
       left: 1078px;
       top: 32px;
   
-      font-family: 'Roboto';
+      font-family: 'Roboto', sans-serif;
   
       font-weight: 500;
       font-size: 14px;
@@ -571,6 +594,7 @@ text-align: left;
   }
   .buton{
       list-style: none;
+      
   }
   
   .wis{
@@ -592,8 +616,7 @@ text-align: left;
   left: 537px;
   top: 180px;
   
-  font-family: 'Roboto';
-  
+  font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 26px;
@@ -603,6 +626,8 @@ text-align: left;
   letter-spacing: 0.03em;
   
   color: #FFFFFF;
+
+  cursor: pointer;
   }
   
   
@@ -622,7 +647,7 @@ text-align: left;
   left: 615px;
   top: 180px;
   
-  font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif;
   
   font-weight: 500;
   font-size: 14px;
@@ -633,7 +658,7 @@ text-align: left;
   letter-spacing: 0.03em;
   
   color: #212121;
-  
+  cursor: pointer;
   }
   
   .wet{
@@ -652,7 +677,7 @@ text-align: left;
   left: 748px;
   top: 180px;
   
-  font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif;
   
   font-weight: 500;
   font-size: 16px;
@@ -663,7 +688,7 @@ text-align: left;
   letter-spacing: 0.03em;
   
   color: #212121;
-  
+  cursor: pointer;
   }
   
   .diz{
@@ -682,7 +707,7 @@ text-align: left;
   left: 868px;
   top: 180px;
   
-  font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif;
   
   font-weight: 500;
   font-size: 16px;
@@ -693,7 +718,7 @@ text-align: left;
   letter-spacing: 0.03em;
   
   color: #212121;
-  
+  cursor: pointer;
   }
   
   .market{
@@ -712,7 +737,7 @@ text-align: left;
   left: 979px;
   top: 180px;
   
-  font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif;
   
   font-weight: 500;
   font-size: 16px;
@@ -723,7 +748,7 @@ text-align: left;
   letter-spacing: 0.03em;
   
   color: #212121;
-  
+  cursor: pointer;
   }
   
   .img{
@@ -740,6 +765,25 @@ text-align: left;
   background: #FFFFFF;
   border: 1px solid #EEEEEE;
   }
+  .tehno {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0.06em;
+    text-align: left;
+    
+}
+.webs {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    
+}
+
   .poster {
       position: absolute;
   width: 370px;
@@ -750,6 +794,26 @@ text-align: left;
   background: #FFFFFF;
   border: 1px solid #EEEEEE;
   }
+
+  .pos {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0.06em;
+    text-align: left;
+    
+    
+}
+.dis {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    
+}
   .rest {
       position: absolute;
   width: 370px;
@@ -760,6 +824,25 @@ text-align: left;
   background: #FFFFFF;
   border: 1px solid #EEEEEE;
   }
+  .resto {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0.06em;
+    text-align: left;
+    
+}
+.add {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    
+}
+
   .project {
       position: absolute;
   width: 370px;
@@ -770,6 +853,24 @@ text-align: left;
   background: #FFFFFF;
   border: 1px solid #EEEEEE;
   }
+  .prime {
+    font-family: 'Roboto', sans-serif;
+font-size: 18px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0.06em;
+text-align: left;
+
+}
+.mark {
+    font-family: 'Roboto', sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.03em;
+text-align: left;
+
+}
   .box {
       position: absolute;
   width: 370px;
@@ -780,6 +881,24 @@ text-align: left;
   background: #FFFFFF;
   border: 1px solid #EEEEEE;
   }
+  .boxes {
+    font-family: 'Roboto', sans-serif;
+font-size: 18px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0.06em;
+text-align: left;
+
+}
+.addi {
+    font-family: 'Roboto', sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.03em;
+text-align: left;
+
+}
   .insp {
       position: absolute;
   width: 370px;
@@ -790,6 +909,24 @@ text-align: left;
   background: #FFFFFF;
   border: 1px solid #EEEEEE;
   }
+  .inspi {
+    font-family: 'Roboto', sans-serif;
+font-size: 18px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0.06em;
+text-align: left;
+
+}
+.web-sa {
+    font-family: 'Roboto', sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.03em;
+text-align: left;
+
+}
   .limit {
       position: absolute;
   width: 370px;
@@ -800,6 +937,25 @@ text-align: left;
   background: #FFFFFF;
   border: 1px solid #EEEEEE;
   }
+  .limi {
+    font-family: 'Roboto', sans-serif;
+font-size: 18px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0.06em;
+text-align: left;
+
+}
+.diza {
+    font-family: 'Roboto', sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.03em;
+text-align: left;
+
+}
+
   .lab {
       position: absolute;
   width: 370px;
@@ -810,6 +966,24 @@ text-align: left;
   background: #FFFFFF;
   border: 1px solid #EEEEEE;
   }
+  .proj {
+    font-family: 'Roboto', sans-serif;
+font-size: 18px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0.06em;
+text-align: left;
+
+}
+.mar {
+    font-family: 'Roboto', sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.03em;
+text-align: left;
+
+}
   
   .busin{
       position: absolute;
@@ -821,7 +995,24 @@ text-align: left;
   background: #FFFFFF;
   border: 1px solid #EEEEEE;
   }
-  
+  .growing {
+    font-family: 'Roboto', sans-serif;
+font-size: 18px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0.06em;
+text-align: left;
+
+}
+.addit {
+    font-family: 'Roboto', sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.03em;
+text-align: left;
+
+}
   
   
   .secti {
@@ -845,7 +1036,7 @@ text-align: left;
   .street {
      
   
-  font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
   
   font-weight: 400;
   font-size: 14px;
@@ -859,7 +1050,7 @@ text-align: left;
   .mailt{
      
   
-  font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
   
   font-weight: 400;
   font-size: 14px;
@@ -873,7 +1064,7 @@ text-align: left;
   .numb {
       
   
-  font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
   
   font-weight: 400;
   font-size: 14px;

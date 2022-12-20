@@ -250,6 +250,7 @@ text-align: left;
   }
   
   .diz{
+    cursor: pointer;
       position: absolute;
   width: 103px;
   height: 38px;
@@ -276,10 +277,11 @@ text-align: left;
   letter-spacing: 0.03em;
   
   color: #212121;
-  cursor: pointer;
+  
   }
   
   .market{
+    cursor: pointer;
       position: absolute;
   width: 130px;
   height: 38px;
@@ -294,8 +296,9 @@ text-align: left;
   height: 26px;
   left: 979px;
   top: 180px;
-  
+  cursor: pointer;
   font-family: 'Roboto', sans-serif;
+  font-family: inherit;
   
   font-weight: 500;
   font-size: 16px;
@@ -306,7 +309,7 @@ text-align: left;
   letter-spacing: 0.03em;
   
   color: #212121;
-  cursor: pointer;
+  
   }
   
   .img{
@@ -324,7 +327,7 @@ text-align: left;
   border: 1px solid #EEEEEE;
   }
   .tehno {
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
 
 font-weight: 700;
 font-size: 18px;
@@ -587,7 +590,7 @@ text-align: left;
   
   background: #2F303A;
   }
-  .logo-link{
+  .logo-lin{
     
 
     
@@ -608,7 +611,7 @@ text-align: left;
     
     }
     
-    .logo-header{
+    .logo-heade{
        
         font-family: 'Oleo Script' , sans-serif;
     font-size: 26px;
@@ -616,8 +619,13 @@ text-align: left;
     line-height: 36px;
     letter-spacing: 0.03em;
     text-align: left;
-    color: #000000;
+    color: #ffffff;
     }
+
+.foot{
+    list-style: none;
+}
+
   .street {
      
   
@@ -634,7 +642,7 @@ text-align: left;
   }
   .mailt{
      
-    font-style: normal;
+    
   
     font-family: 'Roboto', sans-serif;
   

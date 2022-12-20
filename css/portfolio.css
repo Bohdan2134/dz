@@ -13,7 +13,8 @@
 }
 
 .link{
-    list-style: none;  
+    list-style: none;
+    text-decoration: none;  
   }
   
   .header{
@@ -75,8 +76,7 @@ line-height: 16.41px;
 letter-spacing: 0.02em;
 text-align: left;
 
-      
-      color: #2196F3;
+
 
       
   
@@ -134,7 +134,7 @@ text-align: left;
       
       font-weight: 500;
       font-size: 14px;
-      line-height: 16px;
+      line-height: 1.14px;
       letter-spacing: 0.02em;
       
       color: #757575;
@@ -151,7 +151,7 @@ text-align: left;
   
       font-weight: 500;
       font-size: 14px;
-      line-height: 16px;
+      line-height: 1.14px;
       letter-spacing: 0.02em;
       
       color: #757575;
@@ -172,7 +172,7 @@ text-align: left;
    
     font-weight: 500;
     font-size: 16px;
-    line-height: 26px;
+    line-height: 1.62px;
    
     
     text-align: center;
@@ -209,7 +209,7 @@ text-align: left;
   
   font-weight: 500;
   font-size: 14px;
-  line-height: 26px;
+  line-height: 1.85px;
   /* identical to box height, or 162% */
   
   text-align: center;
@@ -239,7 +239,7 @@ text-align: left;
   
   font-weight: 500;
   font-size: 16px;
-  line-height: 26px;
+  line-height: 1.62px;
   /* identical to box height, or 162% */
   
   text-align: center;
@@ -270,7 +270,7 @@ text-align: left;
   
   font-weight: 500;
   font-size: 16px;
-  line-height: 26px;
+  line-height: 1.62px;
   /* identical to box height, or 162% */
   
   text-align: center;
@@ -302,7 +302,7 @@ text-align: left;
   
   font-weight: 500;
   font-size: 16px;
-  line-height: 26px;
+  line-height: 1.62px;
   /* identical to box height, or 162% */
   
   text-align: center;
@@ -344,7 +344,7 @@ color: #212121;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 400;
-    line-height: 30px;
+    line-height: 1.87px;
     letter-spacing: 0.03em;
     text-align: left;
     
@@ -375,7 +375,7 @@ color: #212121;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 400;
-    line-height: 30px;
+    line-height: 1.87px;
     letter-spacing: 0.03em;
     text-align: left;
     
@@ -403,7 +403,7 @@ color: #212121;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 400;
-    line-height: 30px;
+    line-height: 1.87px;
     letter-spacing: 0.03em;
     text-align: left;
     
@@ -432,7 +432,7 @@ text-align: left;
     font-family: 'Roboto', sans-serif;
 font-size: 16px;
 font-weight: 400;
-line-height: 30px;
+line-height: 1.87px;
 letter-spacing: 0.03em;
 text-align: left;
 
@@ -460,7 +460,7 @@ text-align: left;
     font-family: 'Roboto', sans-serif;
 font-size: 16px;
 font-weight: 400;
-line-height: 30px;
+line-height: 1.87px;
 letter-spacing: 0.03em;
 text-align: left;
 
@@ -488,7 +488,7 @@ text-align: left;
     font-family: 'Roboto', sans-serif;
 font-size: 16px;
 font-weight: 400;
-line-height: 30px;
+line-height: 1.87px;
 letter-spacing: 0.03em;
 text-align: left;
 
@@ -516,7 +516,7 @@ text-align: left;
     font-family: 'Roboto', sans-serif;
 font-size: 16px;
 font-weight: 400;
-line-height: 30px;
+line-height: 1.87px;
 letter-spacing: 0.03em;
 text-align: left;
 
@@ -545,7 +545,7 @@ text-align: left;
     font-family: 'Roboto', sans-serif;
 font-size: 16px;
 font-weight: 400;
-line-height: 30px;
+line-height: 1.87px;
 letter-spacing: 0.03em;
 text-align: left;
 
@@ -574,7 +574,7 @@ text-align: left;
     font-family: 'Roboto', sans-serif;
 font-size: 16px;
 font-weight: 400;
-line-height: 30px;
+line-height: 1.87px;
 letter-spacing: 0.03em;
 text-align: left;
 
@@ -600,7 +600,7 @@ text-align: left;
     font-family: 'Raleway' , sans-serif;
     font-size: 26px;
     font-weight: 700;
-    line-height: 31px;
+    line-height: 1.19px;
     letter-spacing: 0.03em;
     text-align: left;
     
@@ -616,7 +616,7 @@ text-align: left;
         font-family: 'Oleo Script' , sans-serif;
     font-size: 26px;
     font-weight: 400;
-    line-height: 36px;
+    line-height: 1.19px;
     letter-spacing: 0.03em;
     text-align: left;
     color: #ffffff;
@@ -633,7 +633,7 @@ text-align: left;
   
   font-weight: 400;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.71px;
   /* or 171% */
   
   letter-spacing: 0.03em;
@@ -648,7 +648,7 @@ text-align: left;
   
   font-weight: 400;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.71px;
   /* or 171% */
   
   letter-spacing: 0.03em;
@@ -662,7 +662,7 @@ text-align: left;
   
   font-weight: 400;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.71px;
   /* or 171% */
   
   letter-spacing: 0.03em;

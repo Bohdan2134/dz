@@ -18,11 +18,7 @@
   }
   
   .header{
-      position: absolute;
-  width: 1600px;
-  height: 80px;
-  left: 0px;
-  top: 0px;
+     
   
   background: #FFFFFF;
   }
@@ -32,14 +28,14 @@
   .logo-link{
     
 
-    
+    text-decoration: none;
 
 
 
     font-family: 'Raleway' , sans-serif;
     font-size: 26px;
     font-weight: 700;
-    line-height: 31px;
+    line-height: 1.19;
     letter-spacing: 0.03em;
     text-align: left;
     
@@ -51,11 +47,11 @@
     }
     
     .logo-header{
-       
+      text-decoration: none;
         font-family: 'Oleo Script' , sans-serif;
     font-size: 26px;
     font-weight: 400;
-    line-height: 36px;
+    line-height: 1.38;
     letter-spacing: 0.03em;
     text-align: left;
     color: #000000;
@@ -63,18 +59,15 @@
   
   .linke{
     font-family: 'Roboto', sans-serif;
-      position: absolute;
-      width: 45px;
-      height: 16px;
-      left: 453px;
-      top: 32px;
+    text-decoration: none;
   
-      font-family: Roboto;
-font-size: 14px;
-font-weight: 500;
-line-height: 16.41px;
-letter-spacing: 0.02em;
-text-align: left;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+    
+    color: #212121;
+    
 
 
 
@@ -83,79 +76,68 @@ text-align: left;
   }
   
   .links{
-      position: absolute;
-      width: 72px;
-  height: 16px;
-  left: 548px;
-  top: 32px;
-  
+    
+    text-decoration: none;
   
   
   font-family: 'Roboto', sans-serif;
      
-      font-weight: 500;
-      font-size: 14px;
-      line-height: 16.41px;
-      letter-spacing: 0.02em;
-      
-      color: #212121;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  
+  color: #2196F3;
       
   }
   
   .linka{
-      position: absolute;
-      width: 64px;
-  height: 16px;
-  left: 670px;
-  top: 32px;
-  
+      
+    text-decoration: none;
   font-family: 'Roboto', sans-serif;
       
-      font-weight: 500;
-      font-size: 14px;
-      line-height: 16.41px;
-      letter-spacing: 0.02em;
-      
-      color: #212121;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14px;
+  letter-spacing: 0.02em;
+  
+  color: var(black)
   }
   
   .num{
       list-style: none;
+      
   }
   
   .number{
-      position: absolute;
-      width: 122px;
-      height: 16px;
-      left: 1263px;
-      top: 32px;
+      
   
       font-family: 'Roboto', sans-serif;
       
       font-weight: 500;
       font-size: 14px;
-      line-height: 1.14px;
+      line-height: 1.14;
       letter-spacing: 0.02em;
-      
-      color: #757575;
+      text-decoration: none;
+      color: var(gray);
       
   }
   .mail{
-      position: absolute;
-      width: 135px;
-      height: 16px;
-      left: 1078px;
-      top: 32px;
-  
+      
       font-family: 'Roboto', sans-serif;
-  
+      text-decoration: none;
       font-weight: 500;
       font-size: 14px;
-      line-height: 1.14px;
+      line-height: 1.14;
       letter-spacing: 0.02em;
+      color: var(--bran-color,blue);
       
-      color: #757575;
+      
   }
+
+
+
+
   .buton{
       list-style: none;
       
@@ -163,22 +145,18 @@ text-align: left;
   
   .wis{
      
-    position: absolute;
-    width: 23px;
-    height: 26px;
-    left: 537px;
-    top: 180px;
+    
     
    
     font-weight: 500;
     font-size: 16px;
-    line-height: 1.62px;
+    line-height: 1.62;
    
     
     text-align: center;
     letter-spacing: 0.03em;
     
-    color: #FFFFFF;
+    color: var(white);
   
    
     font-family: 'Roboto', sans-serif;
@@ -190,26 +168,18 @@ text-align: left;
   
   
   .web{
-      position: absolute;
-  width: 125px;
-  height: 38px;
-  left: 593px;
-  top: 174px;
+     
   
   background: #F5F4FA;
   border-radius: 4px;
   
-  position: absolute;
-  width: 81px;
-  height: 26px;
-  left: 615px;
-  top: 180px;
+ 
   
   font-family: 'Roboto', sans-serif;
   
   font-weight: 500;
   font-size: 14px;
-  line-height: 1.85px;
+  line-height: 1.85;
   /* identical to box height, or 162% */
   
   text-align: center;
@@ -220,26 +190,18 @@ text-align: left;
   }
   
   .wet{
-      position: absolute;
-      width: 112px;
-      height: 38px;
-      left: 726px;
-      top: 174px;
+      
       
       background: #F5F4FA;
       border-radius: 4px; 
   
-      position: absolute;
-  width: 68px;
-  height: 26px;
-  left: 748px;
-  top: 180px;
+      
   
   font-family: 'Roboto', sans-serif;
   
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.62px;
+  line-height: 1.62;
   /* identical to box height, or 162% */
   
   text-align: center;
@@ -251,26 +213,18 @@ text-align: left;
   
   .diz{
     cursor: pointer;
-      position: absolute;
-  width: 103px;
-  height: 38px;
-  left: 846px;
-  top: 174px;
+      
   
   background: #F5F4FA;
   border-radius: 4px;
   
-  position: absolute;
-  width: 59px;
-  height: 26px;
-  left: 868px;
-  top: 180px;
+  
   
   font-family: 'Roboto', sans-serif;
   
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.62px;
+  line-height: 1.62;
   /* identical to box height, or 162% */
   
   text-align: center;
@@ -282,27 +236,19 @@ text-align: left;
   
   .market{
     cursor: pointer;
-      position: absolute;
-  width: 130px;
-  height: 38px;
-  left: 957px;
-  top: 174px;
+     
   
   background: #F5F4FA;
-  border-radius: 4px;
+  border-radius: 4p;
   
-  position: absolute;
-  width: 86px;
-  height: 26px;
-  left: 979px;
-  top: 180px;
+  
   cursor: pointer;
   font-family: 'Roboto', sans-serif;
   font-family: inherit;
   
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.62px;
+  line-height: 1.62;
   /* identical to box height, or 162% */
   
   text-align: center;
@@ -317,12 +263,7 @@ text-align: left;
   }
   
   .teh {
-      position: absolute;
-  width: 370px;
-  height: 404px;
-  left: 215px;
-  top: 262px;
-  
+     
   background: #FFFFFF;
   border: 1px solid #EEEEEE;
   }
@@ -331,7 +272,7 @@ text-align: left;
 
 font-weight: 700;
 font-size: 18px;
-line-height: 36px;
+line-height: 2;
 
 
 letter-spacing: 0.06em;
@@ -344,18 +285,14 @@ color: #212121;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 400;
-    line-height: 1.87px;
+    line-height: 1.87;
     letter-spacing: 0.03em;
     text-align: left;
     
 }
 
   .poster {
-      position: absolute;
-  width: 370px;
-  height: 404px;
-  left: 615px;
-  top: 262px;
+     
   
   background: #FFFFFF;
   border: 1px solid #EEEEEE;
@@ -365,7 +302,7 @@ color: #212121;
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 36px;
+    line-height: 2;
     letter-spacing: 0.06em;
     text-align: left;
     
@@ -375,17 +312,13 @@ color: #212121;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 400;
-    line-height: 1.87px;
+    line-height: 1.87;
     letter-spacing: 0.03em;
     text-align: left;
     
 }
   .rest {
-      position: absolute;
-  width: 370px;
-  height: 404px;
-  left: 1015px;
-  top: 262px;
+      
   
   background: #FFFFFF;
   border: 1px solid #EEEEEE;
@@ -394,7 +327,7 @@ color: #212121;
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 36px;
+    line-height: 2;
     letter-spacing: 0.06em;
     text-align: left;
     
@@ -403,19 +336,14 @@ color: #212121;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 400;
-    line-height: 1.87px;
+    line-height: 1.87;
     letter-spacing: 0.03em;
     text-align: left;
     
 }
 
   .project {
-      position: absolute;
-  width: 370px;
-  height: 404px;
-  left: 215px;
-  top: 696px;
-  
+      
   background: #FFFFFF;
   border: 1px solid #EEEEEE;
   }
@@ -423,7 +351,7 @@ color: #212121;
     font-family: 'Roboto', sans-serif;
 font-size: 18px;
 font-weight: 700;
-line-height: 36px;
+line-height: 2;
 letter-spacing: 0.06em;
 text-align: left;
 
@@ -432,17 +360,13 @@ text-align: left;
     font-family: 'Roboto', sans-serif;
 font-size: 16px;
 font-weight: 400;
-line-height: 1.87px;
+line-height: 1.87;
 letter-spacing: 0.03em;
 text-align: left;
 
 }
   .box {
-      position: absolute;
-  width: 370px;
-  height: 404px;
-  left: 615px;
-  top: 696px;
+     
   
   background: #FFFFFF;
   border: 1px solid #EEEEEE;
@@ -451,7 +375,7 @@ text-align: left;
     font-family: 'Roboto', sans-serif;
 font-size: 18px;
 font-weight: 700;
-line-height: 36px;
+line-height: 2;
 letter-spacing: 0.06em;
 text-align: left;
 
@@ -460,17 +384,13 @@ text-align: left;
     font-family: 'Roboto', sans-serif;
 font-size: 16px;
 font-weight: 400;
-line-height: 1.87px;
+line-height: 1.87;
 letter-spacing: 0.03em;
 text-align: left;
 
 }
   .insp {
-      position: absolute;
-  width: 370px;
-  height: 404px;
-  left: 1015px;
-  top: 696px;
+     
   
   background: #FFFFFF;
   border: 1px solid #EEEEEE;
@@ -479,7 +399,7 @@ text-align: left;
     font-family: 'Roboto', sans-serif;
 font-size: 18px;
 font-weight: 700;
-line-height: 36px;
+line-height: 2;
 letter-spacing: 0.06em;
 text-align: left;
 
@@ -488,17 +408,13 @@ text-align: left;
     font-family: 'Roboto', sans-serif;
 font-size: 16px;
 font-weight: 400;
-line-height: 1.87px;
+line-height: 1.87;
 letter-spacing: 0.03em;
 text-align: left;
 
 }
   .limit {
-      position: absolute;
-  width: 370px;
-  height: 404px;
-  left: 215px;
-  top: 1130px;
+     
   
   background: #FFFFFF;
   border: 1px solid #EEEEEE;
@@ -507,7 +423,7 @@ text-align: left;
     font-family: 'Roboto', sans-serif;
 font-size: 18px;
 font-weight: 700;
-line-height: 36px;
+line-height: 2;
 letter-spacing: 0.06em;
 text-align: left;
 
@@ -516,18 +432,14 @@ text-align: left;
     font-family: 'Roboto', sans-serif;
 font-size: 16px;
 font-weight: 400;
-line-height: 1.87px;
+line-height: 1.87;
 letter-spacing: 0.03em;
 text-align: left;
 
 }
 
   .lab {
-      position: absolute;
-  width: 370px;
-  height: 404px;
-  left: 615px;
-  top: 1130px;
+     
   
   background: #FFFFFF;
   border: 1px solid #EEEEEE;
@@ -536,7 +448,7 @@ text-align: left;
     font-family: 'Roboto', sans-serif;
 font-size: 18px;
 font-weight: 700;
-line-height: 36px;
+line-height: 2;
 letter-spacing: 0.06em;
 text-align: left;
 
@@ -545,18 +457,14 @@ text-align: left;
     font-family: 'Roboto', sans-serif;
 font-size: 16px;
 font-weight: 400;
-line-height: 1.87px;
+line-height: 1.87;
 letter-spacing: 0.03em;
 text-align: left;
 
 }
   
   .busin{
-      position: absolute;
-  width: 370px;
-  height: 404px;
-  left: 1015px;
-  top: 1130px;
+      
   
   background: #FFFFFF;
   border: 1px solid #EEEEEE;
@@ -565,7 +473,7 @@ text-align: left;
     font-family: 'Roboto', sans-serif;
 font-size: 18px;
 font-weight: 700;
-line-height: 36px;
+line-height: 2;
 letter-spacing: 0.06em;
 text-align: left;
 
@@ -574,7 +482,7 @@ text-align: left;
     font-family: 'Roboto', sans-serif;
 font-size: 16px;
 font-weight: 400;
-line-height: 1.87px;
+line-height: 1.87;
 letter-spacing: 0.03em;
 text-align: left;
 
@@ -582,25 +490,21 @@ text-align: left;
   
   
   .secti {
-      position: absolute;
-  width: 1600px;
-  height: 252px;
-  left: 0px;
-  top: 1628px;
+     
   
   background: #2F303A;
   }
   .logo-lin{
     
 
-    
+    text-decoration: none;
 
 
 
     font-family: 'Raleway' , sans-serif;
     font-size: 26px;
     font-weight: 700;
-    line-height: 1.19px;
+    line-height: 1.19;
     letter-spacing: 0.03em;
     text-align: left;
     
@@ -612,11 +516,11 @@ text-align: left;
     }
     
     .logo-heade{
-       
+      text-decoration: none;
         font-family: 'Oleo Script' , sans-serif;
     font-size: 26px;
     font-weight: 400;
-    line-height: 1.19px;
+    line-height: 1.19;
     letter-spacing: 0.03em;
     text-align: left;
     color: #ffffff;
@@ -627,13 +531,13 @@ text-align: left;
 }
 
   .street {
-     
+    text-decoration: none;
   
     font-family: 'Roboto', sans-serif;
   
   font-weight: 400;
   font-size: 14px;
-  line-height: 1.71px;
+  line-height: 1.71;
   /* or 171% */
   
   letter-spacing: 0.03em;
@@ -642,13 +546,13 @@ text-align: left;
   }
   .mailt{
      
-    
+    text-decoration: none;
   
     font-family: 'Roboto', sans-serif;
   
   font-weight: 400;
   font-size: 14px;
-  line-height: 1.71px;
+  line-height: 1.71;
   /* or 171% */
   
   letter-spacing: 0.03em;
@@ -657,12 +561,12 @@ text-align: left;
   }
   .numb {
       
-  
+    text-decoration: none;
     font-family: 'Roboto', sans-serif;
   
   font-weight: 400;
   font-size: 14px;
-  line-height: 1.71px;
+  line-height: 1.71;
   /* or 171% */
   
   letter-spacing: 0.03em;
